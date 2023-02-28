@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nearby test</string>
+    <string name="bluetooth_disabled">Bluetooth disabled</string>
+    <string name="turning_bluetooth_off">Turning bluetooth off …</string>
+    <string name="bluetooth_enabled">Bluetooth enabled</string>
+    <string name="turning_bluetooth_on">Turning bluetooth on</string>
+    <string name="no_bluetooth_support">Device has no bluetooth support</string>
+    <string name="turn_on_bluetooth_message">Please turn on your bluetooth to continue</string>
+
+</resources>
